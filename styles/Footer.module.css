@@ -1,0 +1,27 @@
+
+
+.embark{
+    text-align: left;
+}
+
+.footerBottom {
+    border-top: 1px solid #e0e0e0; /* Light border for separation */
+  }
+  
+ 
+  .brandContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .logo {
+    height: 50px; 
+    font-size: 60px;
+    margin-right: 2rem; 
+  }
+
+  .copyright{
+    margin-right: 180px;
+  }

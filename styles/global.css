@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* styles/globals.css */
+html {
+  scroll-behavior: smooth;
+}
+
+
+.contact{
+  text-align: center;
+}
+
+#gettouch {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.hello{
+  height: 200px;
+  width: 100px;
+  background-color: red;
+}

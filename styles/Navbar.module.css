@@ -1,0 +1,37 @@
+.navbar {
+    background-color: white;
+    padding: 0.5rem 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .brandContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .logo {
+    height: 50px; 
+    font-size: 60px;
+    margin-right: 2rem; 
+  }
+  
+  .navLinks {
+    display: flex;
+    align-items: center;
+    gap: 2rem; 
+    margin-right: 110px;
+    font-size: 20px;
+
+  }
+  
+  .navLink {
+    text-decoration: none;
+    color: black; 
+  }
+  
+  .navLink:hover {
+    color: #007bff; 
+  }
+  
